@@ -1,4 +1,9 @@
-# (C) Copyright 2023 • https://t.me/nekomodules
+
+# █▄░█ █▀▀ █▄▀ █▀█ █▀▄▀█ █▀█ █▀▄ █░█ █░░ █▀▀ █▀
+# █░▀█ ██▄ █░█ █▄█ █░▀░█ █▄█ █▄▀ █▄█ █▄▄ ██▄ ▄█
+
+#    (C) Copyright 2023 • https://t.me/nekomodules
+
 # meta developer: @nekomodules
 # scope: hikka_only
 
